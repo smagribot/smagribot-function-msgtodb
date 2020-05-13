@@ -1,0 +1,1 @@
+smagribot-function-msgtodb
